@@ -3,6 +3,7 @@ Escape is a medium windows box from HTB with a feature like Active directory, wh
 
 
 REFERENCE:
+
 https://redfoxsec.com/blog/exploiting-active-directory-certificate-services-ad-cs/
 https://book.hacktricks.xyz/network-services-pentesting/pentesting-mssql-microsoft-sql-server
 https://learn.microsoft.com/en-us/sql/relational-databases/lesson-1-connecting-to-the-database-engine?view=sql-server-ver16
